@@ -29,20 +29,12 @@ Edit
 
 ---
 
-## 🖥️ Live Preview
 
-> 📍 **View the live preview:** [GitHub Pages Link Here](#)  
-> *(Replace `#` with your GitHub Pages link once deployed)*
-
-> 📷 **Local Screenshot (if no live link):**  
-> Include a screenshot showing the hero, about, products, and contact sections.
-
----
 
 ## 🚀 How to View Locally
 
 1. **Download or Clone the Repository**  
-git clone https://github.com/yourusername/kyara-homepage.git
+git clone https://github.com/VaniNarwani23/kyara-homepage.git
 
 markdown
 Copy
