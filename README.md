@@ -1,7 +1,6 @@
 ✅ README.md
 markdown
-Copy
-Edit
+
 # Kyara Beverages – Responsive Homepage
 
 ## 🧾 Overview
@@ -36,16 +35,12 @@ Edit
 1. **Download or Clone the Repository**  
 git clone https://github.com/VaniNarwani23/kyara-beverages-project/
 
-markdown
-Copy
-Edit
+
 
 2. **Navigate to the project folder**  
 cd kyara-homepage
 
-yaml
-Copy
-Edit
+
 
 3. **Open `index.html` in your browser**  
 Double click or right-click → Open with browser.
