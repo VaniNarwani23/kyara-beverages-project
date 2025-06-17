@@ -34,7 +34,7 @@ Edit
 ## 🚀 How to View Locally
 
 1. **Download or Clone the Repository**  
-git clone https://github.com/VaniNarwani23/kyara-homepage.git
+git clone https://github.com/VaniNarwani23/kyara-beverages-project/
 
 markdown
 Copy
