@@ -12,7 +12,6 @@
   --transition: all 0.3s ease;
 }
 
-/* ===== Base ===== */
 body {
   margin: 0;
   padding: 0;
@@ -29,13 +28,13 @@ body {
   margin: 0 auto;
 }
 
-/* ===== Hero Section ===== */
+
 .hero {
   position: relative;
   background: linear-gradient(135deg, rgba(0,0,0,0.6), rgba(255,165,0,0.2)),
               url('../images/hero-bg.jpg') center/cover no-repeat;
   color: white;
-  min-height: 90vh;
+  min-height: 70vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -43,7 +42,7 @@ body {
   padding: 40px 20px 80px;
 }
 
-/* ===== Enhanced Logo ===== */
+
 .logo-container {
   position: absolute;
   top: 20px;
@@ -66,7 +65,7 @@ body {
   display: block;
 }
 
-/* ===== Hero Content ===== */
+
 .hero-content {
   margin-top: auto;
   padding-bottom: 50px;
@@ -86,7 +85,6 @@ body {
   color: rgba(255,255,255,0.85);
 }
 
-/* ===== About Section ===== */
 .about {
   background: var(--light);
   padding: 80px 20px;
@@ -118,7 +116,7 @@ body {
   line-height: 1.8;
 }
 
-/* ===== Products Section ===== */
+
 .products {
   background: #fff;
   padding: 80px 20px;
@@ -167,7 +165,7 @@ body {
   padding: 0 20px 20px;
 }
 
-/* ===== Contact Section ===== */
+
 .contact {
   background: var(--light);
   padding: 80px 20px;
@@ -229,7 +227,7 @@ body {
   box-shadow: 0 8px 15px rgba(0,0,0,0.15);
 }
 
-/* ===== Footer ===== */
+
 footer {
   background: var(--dark);
   color: white;
@@ -237,7 +235,6 @@ footer {
   padding: 25px 0;
 }
 
-/* ===== Responsive Adjustments ===== */
 @media (max-width: 768px) {
   .hero h1 {
     font-size: 2.3rem;
