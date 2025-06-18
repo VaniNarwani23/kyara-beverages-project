@@ -22,9 +22,7 @@ kyara-homepage/
 │ └── product3.jpg
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
